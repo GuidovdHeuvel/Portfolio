@@ -60,6 +60,10 @@ li a:hover:not(.active){
     padding-top: 1rem;
 }
 
+.connect a{
+    padding-right: 1rem;
+}
+
 footer {
     background-color: #3f3f3f ;
     color: #d5d5d5 ;
