@@ -16,6 +16,10 @@
     font-size: 1.1em !important;
 }
 
+li a:hover:not(.active){
+    background-color: lightgray ;
+}
+
 .jumbotron {
     padding: 1rem;
     border-radius: 0;
